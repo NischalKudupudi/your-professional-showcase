@@ -31,7 +31,7 @@ const Navbar = () => (
         <a href="https://github.com/NischalKudupudi" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors">
           <Github size={18} />
         </a>
-        <a href="http://www.linkedin.com/in/NischalKudupudi" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors">
+        <a href="https://www.linkedin.com/in/nischal04" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors">
           <Linkedin size={18} />
         </a>
       </div>
@@ -263,7 +263,7 @@ const CertificatesSection = () => (
 );
 
 const EDUCATION = [
-  { school: "Lovely Professional University", location: "Phagwara, Punjab", degree: "B.Tech Computer Science & Engineering", period: "Aug 2023 – Present", score: "CGPA: 7.37" },
+  { school: "Lovely Professional University", location: "Phagwara, Punjab", degree: "B.Tech Computer Science & Engineering", period: "Aug 2023 – Present", score: "CGPA: 7.46" },
   { school: "Vignan School", location: "Nizampet, Hyderabad", degree: "Intermediate (MPC)", period: "Apr 2021 – Mar 2023", score: "70%" },
   { school: "Oasis School", location: "Shaikpet, Hyderabad", degree: "Matriculation", period: "Apr 2020 – Mar 2021", score: "89%" },
 ];
@@ -316,7 +316,7 @@ const ContactSection = () => (
         <a href="tel:+918328546112" className="inline-flex items-center gap-2 border border-border px-6 py-3 rounded-md font-mono text-sm text-foreground hover:border-primary hover:text-primary transition-colors">
           <Phone size={16} /> +91 8328546112
         </a>
-        <a href="http://www.linkedin.com/in/NischalKudupudi" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 border border-border px-6 py-3 rounded-md font-mono text-sm text-foreground hover:border-primary hover:text-primary transition-colors">
+        <a href="https://www.linkedin.com/in/nischal04" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 border border-border px-6 py-3 rounded-md font-mono text-sm text-foreground hover:border-primary hover:text-primary transition-colors">
           <Linkedin size={16} /> LinkedIn
         </a>
         <a href="https://github.com/NischalKudupudi" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 border border-border px-6 py-3 rounded-md font-mono text-sm text-foreground hover:border-primary hover:text-primary transition-colors">
