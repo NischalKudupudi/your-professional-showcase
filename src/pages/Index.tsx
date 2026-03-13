@@ -316,7 +316,7 @@ const ContactSection = () => (
         <a href="tel:+918328546112" className="inline-flex items-center gap-2 border border-border px-6 py-3 rounded-md font-mono text-sm text-foreground hover:border-primary hover:text-primary transition-colors">
           <Phone size={16} /> +91 8328546112
         </a>
-        <a href="http://www.linkedin.com/in/NischalKudupudi" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 border border-border px-6 py-3 rounded-md font-mono text-sm text-foreground hover:border-primary hover:text-primary transition-colors">
+        <a href="https://www.linkedin.com/in/nischal04" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 border border-border px-6 py-3 rounded-md font-mono text-sm text-foreground hover:border-primary hover:text-primary transition-colors">
           <Linkedin size={16} /> LinkedIn
         </a>
         <a href="https://github.com/NischalKudupudi" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 border border-border px-6 py-3 rounded-md font-mono text-sm text-foreground hover:border-primary hover:text-primary transition-colors">
