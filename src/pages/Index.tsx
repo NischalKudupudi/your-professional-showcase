@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { Github, Linkedin, Mail, Phone, ExternalLink } from "lucide-react";
+import { Github, Linkedin, Mail, Phone, ExternalLink, FileDown } from "lucide-react";
 
 const NAV_LINKS = [
   { label: "Skills", href: "#skills" },
