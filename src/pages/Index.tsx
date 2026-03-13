@@ -263,7 +263,7 @@ const CertificatesSection = () => (
 );
 
 const EDUCATION = [
-  { school: "Lovely Professional University", location: "Phagwara, Punjab", degree: "B.Tech Computer Science & Engineering", period: "Aug 2023 – Present", score: "CGPA: 7.37" },
+  { school: "Lovely Professional University", location: "Phagwara, Punjab", degree: "B.Tech Computer Science & Engineering", period: "Aug 2023 – Present", score: "CGPA: 7.46" },
   { school: "Vignan School", location: "Nizampet, Hyderabad", degree: "Intermediate (MPC)", period: "Apr 2021 – Mar 2023", score: "70%" },
   { school: "Oasis School", location: "Shaikpet, Hyderabad", degree: "Matriculation", period: "Apr 2020 – Mar 2021", score: "89%" },
 ];
