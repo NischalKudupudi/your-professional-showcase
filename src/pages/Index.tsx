@@ -31,7 +31,7 @@ const Navbar = () => (
         <a href="https://github.com/NischalKudupudi" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors">
           <Github size={18} />
         </a>
-        <a href="http://www.linkedin.com/in/NischalKudupudi" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors">
+        <a href="https://www.linkedin.com/in/nischal04" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors">
           <Linkedin size={18} />
         </a>
       </div>
