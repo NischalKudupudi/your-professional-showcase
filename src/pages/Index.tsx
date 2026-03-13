@@ -48,11 +48,14 @@ const HeroSection = () => (
         transition={{ duration: 0.7 }}
       >
         <p className="font-mono text-primary mb-4 text-sm">// hello, world</p>
-        <h1 className="text-5xl md:text-7xl font-bold tracking-tight mb-6">
+        <h1 className="text-5xl md:text-7xl font-bold tracking-tight mb-4">
           Kudupudi{" "}
           <span className="text-gradient">Nischal</span>
         </h1>
-        <p className="text-xl md:text-2xl text-muted-foreground max-w-2xl mb-8 leading-relaxed">
+        <p className="text-lg md:text-xl text-foreground font-medium mb-6">
+          Computer Science Student & Cybersecurity Enthusiast
+        </p>
+        <p className="text-base md:text-lg text-muted-foreground max-w-2xl mb-8 leading-relaxed">
           Computer Science student at Lovely Professional University with a passion for cybersecurity, ethical hacking, and software development. I enjoy building projects that combine data structures, problem solving, and practical applications. I have hands-on experience with security analysis tools, networking concepts, and full-stack development frameworks.
         </p>
         <div className="flex flex-wrap gap-4">
