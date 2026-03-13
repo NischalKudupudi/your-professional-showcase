@@ -325,6 +325,9 @@ const ContactSection = () => (
         <a href="https://github.com/NischalKudupudi" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 border border-border px-6 py-3 rounded-md font-mono text-sm text-foreground hover:border-primary hover:text-primary transition-colors">
           <Github size={16} /> GitHub
         </a>
+        <a href="/Nischal_cv_Updated.pdf" download className="inline-flex items-center gap-2 bg-accent text-accent-foreground px-6 py-3 rounded-md font-mono text-sm font-medium hover:opacity-90 transition-opacity">
+          <FileDown size={16} /> Download Resume
+        </a>
       </motion.div>
     </div>
   </section>
